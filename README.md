@@ -38,7 +38,7 @@ The model is built using **PyTorch**, trained on a labeled dataset of cat and do
 
 ### 1️⃣ Clone the repository
   ```
-  git clone https://github.com/YamenRM/Cat-VS-Dog-DL-Classification.git
+  git clone https://github.com/sunilsaini01/Cat-VS-Dog-DL-Classification.git
   cd Cat-VS-Dog-DL-Classification
   ```
 ### 2️⃣ Install dependencies
@@ -86,12 +86,10 @@ The model is built using **PyTorch**, trained on a labeled dataset of cat and do
 
 ### 👨‍💻 Author
 
- - YamenRM
+ - Sunil Kumar
 
- - 📧 Email:yamenrafat132@gmail.com
+ - 📧 kumarsunil100403@gmail.com
 
- - Palestine | GAZA
-
- - 3RD YEAR AT UP
+ - India 
 
 **💪 Stay Strong** 
