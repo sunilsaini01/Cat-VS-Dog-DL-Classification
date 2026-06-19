@@ -6,7 +6,7 @@ A deep learning-based image classification project built using **PyTorch** and *
 
 ## 🚀 Live Demo
 You can try the live version of the app here:  
-**[Cat vs Dog Classification Web App](https://sunilsaini01catvsdog.streamlit.app/)**  
+**(https://cat-vs-dog-dl-classification-w4peo8bpfxclebzhfxzwr5.streamlit.app/)**  
 
 ----
 
