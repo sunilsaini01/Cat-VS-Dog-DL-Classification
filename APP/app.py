@@ -69,7 +69,7 @@ st.sidebar.text(f"Using device: {device}")
 st.sidebar.text("If you have a GPU, the model will run on it for faster predictions.")
 
 st.sidebar.markdown("---")
-st.sidebar.text("Developed by YamenRM")
-st.sidebar.text("For more information, visit: [GitHub Repository](https://github.com/YamenRM/Cat-VS-Dog-DL-Classification)")
+st.sidebar.text("Developed by Sunil Kumar")
+st.sidebar.text("For more information, visit: [GitHub Repository](https://github.com/sunilsaini01/Cat-VS-Dog-DL-Classification)")
 st.sidebar.text("This app is built using Streamlit and PyTorch.")
 
